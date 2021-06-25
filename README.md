@@ -9,7 +9,9 @@ Main paper:
 African vultures optimization algorithm: A new nature-inspired metaheuristic algorithm for global optimization problems Benyamin Abdollahzadeh, Farhad Soleimanian Gharehchopogh, Seyedali Mirjalili,Computers & Industrial Engineering,2021,DOI: https://doi.org/10.1016/j.cie.2021.107408.
 
 Download the paper from:
+
 https://www.researchgate.net/publication/351795002_African_Vultures_Optimization_Algorithm_A_New_Nature-Inspired_Metaheuristic_Algorithm_for_Global_Optimization_Problems
+
 https://www.sciencedirect.com/science/article/abs/pii/S0360835221003120
 
 Email: benyamin.abdolahzade@gmail.com
