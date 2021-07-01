@@ -51,7 +51,7 @@ function [Best_vulture1_F,Best_vulture1_X,convergence_curve]=AVOA(pop_size,max_i
             if abs(F) >= 1 % Exploration:
                 current_vulture_X = exploration(current_vulture_X, random_vulture_X, F, p1, upper_bound, lower_bound);
             elseif abs(F) < 1 % Exploitation:
-                current_vulture_X = exploitation(current_vulture_X, Best_vulture1_X, Best_vulture2_X, random_vulture_X, F, p1, p3, variables_no, upper_bound, lower_bound);
+                current_vulture_X = exploitation(current_vulture_X, Best_vulture1_X, Best_vulture2_X, random_vulture_X, F, p2, p3, variables_no, upper_bound, lower_bound);
             end
 
             X(i,:) = current_vulture_X; % place the current vulture back into the population
